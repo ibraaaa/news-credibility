@@ -13,8 +13,9 @@ Please cite the following paper in your project/publication ... etc. if you'll m
 ```
 ## Project Description:
 
+The project includes the following
 1. Arabic News dataset; described in details below.
-2. A number positive/negative label(s) assigned for each article by a service called MCE Watch. The service used to operate at the of this project and assigns grading for each article across different dimension. The service was human operated.
+2. A number positive/negative label(s) assigned for each article by a service called MCE Watch. The service used to operate at the time of this project and assigns grading for each article across different dimensions. The service was human operated.
 3. Source code for crawling and parsing both the news sites and MC Watch.
 4. Source code for the classification software.
 
