@@ -1,6 +1,6 @@
 # Arabic News Credibility Assessment project.
 
-# Please cite the following paper in your project/publication ... etc. if you'll make use of the dataset or any part of the code:
+Please cite the following paper in your project/publication ... etc. if you'll make use of the dataset or any part of the code:
 @inproceedings{hammad2013automating,
   title={Automating Credibility Assessment of Arabic News},
   author={Hammad, Mohamed and Hemayed, Elsayed},
@@ -10,13 +10,14 @@
   organization={Springer}
 }
 
-# The project consists of:
-# 1- Arabic News dataset; described in details below.
-# 2- A number positive/negative label(s) assigned for each article by a service called MCE Watch. The service used to operate at the of this project and assigns grading for each article across different dimension. The service was human operated.
-# 3- Source code for crawling and parsing both the news sites and MC Watch.
-# 4- Source code for the classification software.
+## Project Description:
+1- Arabic News dataset; described in details below.
+2- A number positive/negative label(s) assigned for each article by a service called MCE Watch. The service used to operate at the of this project and assigns grading for each article across different dimension. The service was human operated.
+3- Source code for crawling and parsing both the news sites and MC Watch.
+4- Source code for the classification software.
 
-# This project includes an Arabic News dataset of around 10,000 articles from 2013. The articles were crawled from 15 different news sites, namely:
+## Dataset Description
+This project includes an Arabic News dataset of around 10,000 articles from 2013. The articles were crawled from 15 different news sites, namely:
 1- Akhbar El-Yom
 2- Alahram
 3- Almasry El Yom
@@ -33,6 +34,6 @@
 14- Shorouk News
 15- Tahrir News Official
 
-All articles were parsed to extrac the text from the HTML pages. The first line in the text file always corresponds to the article's title. The remaining text corresponds to the article's body.
+All articles were parsed to extract the text from the HTML pages. The first line in the text file always corresponds to the article's title. The remaining text corresponds to the article's body.
 
-# More details can be found in the publication or feel free to reach out to the author(s).
+More details can be found in the publication or feel free to reach out to the author(s).
