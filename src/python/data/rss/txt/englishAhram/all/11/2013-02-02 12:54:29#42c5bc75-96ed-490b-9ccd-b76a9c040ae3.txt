@@ -1,0 +1,12 @@
+Hackers target Twitter, could affect 250,000 user accounts
+Twitter, which has 200 million active monthly users, says it is working with government and federal law enforcement officials to track down the attackers as 'limited' data was accessed
+Anonymous hackers attacked Twitter this week and may have gained access to passwords and other information for as many as 250,000 user accounts, the microblog revealed late on Friday.
+Twitter said in a blog post that the passwords were encrypted and that it had already reset them as a "precautionary measure," and that it was in the process of notifying affected users.
+The blog post noted recent revelations of large-scale cyber attacks against the New York Times and the Wall Street Journal, but unlike the two news organizations, Twitter did not provide any detail on the origin or methodology of the attacks.
+"This attack was not the work of amateurs, and we do not believe it was an isolated incident," Twitter said. "The attackers were extremely sophisticated, and we believe other companies and organizations have also been recently similarly attacked."
+Privately held Twitter, which has 200 million active monthly users, said it was working with government and federal law enforcement officials to track down the attackers.
+The company did not specifically link the attacks to China in the blog post, in contrast to the New York Times and the Wall Street Journal, which both said the hackers originated in China.
+Twitter, the social network known for its 140-character messages, could not speculate on the origin of the attacks as its investigation was ongoing, said spokesman Jim Prosser.
+"There is no evidence right now that would indicate that passwords were compromised," said Prosser.
+The attack is not the first time that hackers have breached Twitter's systems and gained access to Twitter user information. Twitter signed a consent decree with the Federal Trade Commission in 2010, subjecting the company to 10 years of independent privacy reviews, for failing to safeguard users' personal information.
+ 

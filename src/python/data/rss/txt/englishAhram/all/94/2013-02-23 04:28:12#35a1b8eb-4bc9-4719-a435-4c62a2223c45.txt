@@ -1,0 +1,8 @@
+Microsoft joins list of companies recently hacked
+Microsoft announces that it has been the target of a hacking attack
+Microsoft has joined the list of prominent technology companies confirming they have been hit by a recent computer hacking attack.
+In a blog posting Friday, Microsoft said it had found no evidence that any customer data had been heisted.
+Microsoft Corp. gave few other details about the break-in, except to say that was it similar to a hacking attack that online social networking leader Facebook Inc. disclosed last week. Facebook had said its investigation had discovered other companies had been hacked, but didn't identify the other victims.
+Like Facebook, Microsoft says it is still investigating how malicious software was planted on what it said were a small number of its computers.
+Online messaging service Twitter also recently disclosed that hackers may have stolen information about 250,000 of its users.
+ 

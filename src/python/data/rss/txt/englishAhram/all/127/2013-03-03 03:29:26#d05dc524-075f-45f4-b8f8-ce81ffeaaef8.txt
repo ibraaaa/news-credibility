@@ -1,0 +1,18 @@
+Facebook, Google tech gurus to design cancer research game
+Ordinary people will soon be able to help science battle cancer - just by playing mobile game
+Scientists from a British cancer charity are teaming up with technology gurus from the likes of Amazon, Facebook and Google to design and develop a mobile game aimed at speeding the search for new cancer drugs.
+The project, led by the charity Cancer Research UK, should mean that anyone with a smart phone and five minutes to spare will be able to investigate vital scientific data at the same time as playing a mobile game.
+The first step is for 40 computer programmers, gamers, graphic designers and other specialists to take part in a weekend "GameJam" to turn the charity's raw genetic data into a game format for future so-called "citizen scientists".
+"We're making great progress in understanding the genetic reasons cancer develops. But the clues to why some drugs will work and some won't are held in data which need to be analyzed by the human eye - and this could take years," said Carlos Caldas at Cancer Research UK's Cambridge Institute.
+"By harnessing the collective power of citizen scientists we'll accelerate the discovery of new ways to diagnose and treat cancer much more precisely."
+After the GameJam, which runs in London from March 1-3, an agency will build the game concept into reality and the team plans to launch it in mid 2013.
+Cancer already kills more than 7.5 million people a year and the number of people with the disease worldwide is expected to surge by more than 75 percent by 2030, according to the World Health Organization's cancer agency IARC.
+CRUK's scientists are working hard to identify the genetic faults that drive cancer to try to find new ways of diagnosing and treating patients in a more targeted way based on their genetic profile and that of their tumors.
+In a major international study on breast cancer genetics published last year, CRUK researchers said they are now able to classify the disease into 10 subtypes - a finding that could lead to more accurate and tailored treatment in future.
+That study also found several completely new genes that drive breast cancer, offering potential targets for new types of drugs.
+Yet this type of research generates colossal amounts of data that need to be analyzed, CRUK said as it announced the gaming project. And while advances in technology mean scientists can process data faster than ever, much of it still needs to be analyzed by people rather than machines.
+"The human eye can detect subtle changes that machines are not programmed to look for - leading to serendipitous discoveries providing clues to the causes and drivers of the disease," the charity said.
+"With the collective power of hundreds of thousands of people across the globe helping our scientists to analyze this data we could drastically speed up research."
+Philip Su, engineering site director of Facebook London said his company believes the best way to solve a problem "is to bring smart people together to 'hack' a solution."
+ 
+ 

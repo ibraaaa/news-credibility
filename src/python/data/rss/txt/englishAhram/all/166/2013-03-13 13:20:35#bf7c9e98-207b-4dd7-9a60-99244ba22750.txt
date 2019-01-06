@@ -1,0 +1,18 @@
+Authors oppose Amazon control of .book websites
+Groups representing US authors and publishers call on Internet Corporation for Assigned Names and Numbers to deny Amazon rights to websites ending with .book, .author, or .read
+The Internet Corporation for Assigned Names and Numbers, (ICANN) is considering nearly two thousand requests for new web address endings, ranging from the general (.shop) to the highly specialized (.motorcycles).
+Many of the requests are from large companies such as Apple, Mitsubishi and IBM -- with Internet giant Google alone applying for more than 100, including .google, .YouTube, and .lol -- Internet slang for "laugh out loud."
+Seattle-based Amazon.com, maker of Kindle tablets, has applied for generic top level domains (gTLDs) including .book, .author, and .read.
+"We strongly object to ICANN's plans to sell the exclusive top-level domain rights for generic book-industry terms," Authors Guild president Scott Turow said in a filed objection.
+"Placing such generic domains in private hands is plainly anticompetitive, allowing already dominant, well-capitalized companies to expand and entrench their market power," Turow said. "The potential for abuse seems limitless."
+The guild represents more than 8,000 published authors in the United States.
+In its stated opposition to Amazon getting control of .book, the Association of American Publishers noted the Internet retailer has expressed its intent to tightly control the domain in pursuit of its business goals.
+"Granting exclusive control of a closed registry to any one entity, especially a private company interested in exploiting the domain solely for business purposes, does a disservice to ICANN's broader intents," AAP general counsel Allan Adler said on the group's website.
+The objections came as Google sent word to ICANN that it is revising its applications for .app, .blog, .cloud and .search to domains to indicate Google would make those addresses available for others to use.
+"We understand that there is particular sensitivity within the Internet community about certain broad terms that serve as industry descriptors," Google chief information officer Ben Fried said in comments emailed to ICANN and posted in a forum on the ICANN.org website.
+"The best user experience for these broad industry terms likely include the opportunity for users to access a variety of service providers."
+Google said it still endorsed the plan for "close generic" domain names and called for the ICANN approval process to proceed "unfettered."
+California-based ICANN says the huge expansion of the Internet, with some two billion users around the world, half of them in Asia, means new names are essential.
+There are currently just 22 generic Top-Level Domains, or gTLDs, in use, including .com and .org.
+ 
+ 

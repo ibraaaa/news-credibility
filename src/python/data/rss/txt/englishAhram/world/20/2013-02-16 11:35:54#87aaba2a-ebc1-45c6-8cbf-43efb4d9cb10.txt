@@ -1,0 +1,27 @@
+Facebook says it was a target of sophisticated hacking
+Facebook Inc says it was targeted by sophisticated hackers, but it was not immediately clear why the social network waited until now to announce the incident
+Facebook Inc said on Friday hackers had infiltrated some of its employees' laptops in recent weeks, making the world's No.1 social network the latest victim of a wave of cyber attacks, many of which have been traced to China.
+It said none of its users' data was compromised in the attack, which occurred after a handful of employees visited a website last month that infected their machines with so-called malware, according to a post on Facebook's official blog released just before the three-day U.S. President's Day weekend.
+"As soon as we discovered the presence of the malware, we remediated all infected machines, informed law enforcement, and began a significant investigation that continues to this day," Facebook said.
+It was not immediately clear why Facebook waited until now to announce the incident. Facebook declined to comment on the reason or the origin of the attack.
+A security expert at another company with knowledge of the matter said he was told the Facebook attack appeared to have originated in China.
+The attack on Facebook, which says it has more than 1 billion members, underscores the growing threat of cyberattacks aimed at a broad variety of targets.
+Twitter, the microblogging social network, said earlier this month it had been hacked and that about 250,000 user accounts were potentially compromised, with attackers gaining access to information, including user names and email addresses.
+Newspaper websites, including those of The New York Times , The Washington Post and The Wall Street Journal, have also been infiltrated. Those attacks were attributed by the news organizations to Chinese hackers targeting coverage of China.
+Earlier this week, U.S. President Barack Obama issued an executive order seeking better protection of the country's critical infrastructure from cyber attacks.
+ 
+"INFILTRATED"
+Facebook noted in its blog post that it was not alone in the attack, and that "others were attacked and infiltrated recently as well," although it did not specify who.
+The Federal Bureau of Investigation declined to comment, while the U.S. Department of Homeland Security did not immediately return a call seeking comment.
+In its blog post, Facebook described the attack as a "zero-day" attack, considered to be among the most sophisticated and dangerous types of computer hacks. Zero-day attacks, which are rarely discovered or disclosed by their targets, are costly to launch and often suggest government involvement.
+While Facebook said no user data was compromised, the incident could raise consumer concerns about privacy and the vulnerability of personal information stored within the social network.
+Facebook has made several privacy missteps in the past because of the way it handled user data. It settled a privacy investigation with federal regulators in 2011.
+According to one person familiar with the situation, the type of information on the employee laptops that were compromised included "snippets" of Facebook source code and employee emails.
+Facebook said it spotted a suspicious file and traced it back to an employee's laptop. After conducting a forensic examination of the laptop, Facebook said it identified a malicious file, then searched company-wide and identified "several other compromised employee laptops".
+Another person briefed on the matter said the first Facebook employee had been infected via a website where coding strategies were discussed.
+The company also said it identified a previously unseen attempt to bypass its built-in cyber defenses and that new protections were added on Feb. 1.
+Because the attack used a third-party website, it might have been an early-stage attempt to penetrate as many companies as possible.
+If they followed established patterns, the attackers would learn about the people and computer networks at all the infected companies. They could then use that data in more targeted attacks to steal source code and other intellectual property.
+Another fear for such a popular website is that hackers could use central controls to infect wide swathes of its user base at once.
+In January 2010, Google reported it had been penetrated via a "zero-day" flaw in an older version of the Internet Explorer Web browser. The attackers were seeking source code and were also interested in Chinese dissidents. Google reduced its operations in China as a result.
+ 
