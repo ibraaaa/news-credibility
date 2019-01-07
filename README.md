@@ -40,4 +40,8 @@ This project includes an Arabic News dataset of around 10,000 articles from 2013
 
 All articles were parsed to extract the text from the HTML pages. The first line in the text file always corresponds to the article's title. The remaining text corresponds to the article's body.
 
+- The articles can be found under `src/python/data/rss/txt/`
+- Another copy of these files can be found under `src/python/data/mce/txt/{trusted|untrusted}/*`. Files under trusted correspond to articles classified by MCE as trusted and the same for untrusted.
+- There is an index database MySql DB that you can construct using `src/sql/news_index.sql` which lists info about each article e.g. like source, path, and the rating across various dimensions as provided by MCE Watch.
+
 More details can be found in the publication or feel free to reach out to the author(s).
